@@ -119,3 +119,6 @@ echo 'BYE!!!'
 
 
 echo TRY TO FIND ME! @wcraz | lolcat
+
+
+echo "I Love Akiyama's MOM❤️!" | lolca
