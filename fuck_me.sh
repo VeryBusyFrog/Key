@@ -3,7 +3,7 @@
 #requirements 
 sudo apt install nmap nuclei assetfinder subfinder finalrecon lolcat
 
-сlear
+printf "\033c"
 
 echo '+-+-+-+-+-+-+ +-+ +-+-+-+'
 echo '|B|E|F|O|R|E| |I| |D|I|E|'
@@ -108,7 +108,7 @@ echo '+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+ +-+-+-
 echo 'BYE!!!'
 
 
-clear
+printf "\033c"
 
 
 
@@ -127,4 +127,4 @@ echo TRY TO FIND ME! @wcraz | lolcat
 
 
 
-clear
+printf "\033c"
