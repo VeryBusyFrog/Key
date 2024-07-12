@@ -12,7 +12,7 @@ echo '+-+-+-+-+-+-+ +-+ +-+-+-+'
 #HELLLLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO GUUUUUUUUYSSSS :)
 
 echo   '_____      _'            
-echo  '| ____|  __| |   ___   _ _ __' 
+echo  '| ____|  __| |   ___    _ _ __' 
 echo  '|  _|   / _` |  / _ \  |  _   \'
 echo  '| |__  | (_| | |  __/  |  | | |'
 echo  '|_____  \__,_|  \___|  | _| |_|'
@@ -121,4 +121,4 @@ echo 'BYE!!!'
 echo TRY TO FIND ME! @wcraz | lolcat
 
 
-echo "I Love Akiyama's MOM❤️!" | lolca
+echo "I Love Akiyama's MOM❤️!" | lolcat
