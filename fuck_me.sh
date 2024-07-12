@@ -11,11 +11,11 @@ echo '+-+-+-+-+-+-+ +-+ +-+-+-+'
 
 #HELLLLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO GUUUUUUUUYSSSS :)
 
-echo  '_____    _'            
-echo '| ____|__| |' ___ _ __  
-echo '|  _| / _` |/ _ \ _  \'
-echo '| |__| (_| |  __/ | | |'
-echo '|_____\__,_|\___|_| |_|'
+echo   '_____    _'            
+echo  '| ____|__| | ___ _ __' 
+echo  '|  _| / _` |/ _ \  _  \'
+echo  '| |__| (_| |  __/ | | |'
+echo  '|_____\__,_|\___|_| |_|'
                         
 
 echo "Maden by WIGIL and Akiyama(We just combined the tools and tools :)), Thanks for tools devs" 
